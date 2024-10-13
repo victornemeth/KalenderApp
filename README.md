@@ -1,5 +1,7 @@
 # Kalender App
 
-A react native app made to get an excel like overview of the month were you can add important tasks.
+A React Native app made to get an Excel-like overview of the month where you can add important tasks.
 
-![alt text](https://github.com/victornemeth/KalenderApp/blob/main/Startup_screen.jpg?raw=true)
+| ![Startup Screen](https://github.com/victornemeth/KalenderApp/blob/main/Startup_screen.jpg?raw=true) | ![Month Selection](https://github.com/victornemeth/KalenderApp/blob/main/month_selection.jpg?raw=true) | ![March Example](https://github.com/victornemeth/KalenderApp/blob/main/March_example.jpg?raw=true) |
+| :--------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
+|                                           Startup Screen                                            |                                          Month Selection                                             |                                         March Example                                             |
